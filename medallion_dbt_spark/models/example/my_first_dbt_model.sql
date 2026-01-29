@@ -17,7 +17,7 @@ with source_data as (
 
 )
 
-select *
+select id, number
 from source_data
 
 /*
